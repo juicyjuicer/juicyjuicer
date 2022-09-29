@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juicyjuicer
-- 👀 I’m interested in programming with my friends.
+- 👀 I’m interested in programming, especially when doing it with my friends.
 - 🌱 I’m currently learning Python.
 
 <!---
